@@ -52,3 +52,7 @@
   - choice
     - `pnpm`
     - `yarn`
+
+## References
+
+- [Nix-shell: How to run `corepack enable` to install modern Yarn? #4](https://discourse.nixos.org/t/nix-shell-how-to-run-corepack-enable-to-install-modern-yarn/18791/4)
